@@ -1,5 +1,6 @@
+built/
+
 .*.swp
 
-blog_shell.exe
-
 .idea/
+.vscode/
